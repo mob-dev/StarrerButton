@@ -1,1 +1,1 @@
-# StarrerButton
+Component use as a Spinner wrapper
